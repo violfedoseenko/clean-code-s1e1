@@ -33,7 +33,7 @@ body {
 .add-input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .tasks {
   margin: 0;
@@ -117,7 +117,7 @@ body {
   width: 226px;
 }
 .todo .input-text {
-  width: 226px
+  width: 226px;
 }
 .todo .button .delete-img {
   height: 2em;
@@ -136,12 +136,12 @@ body {
 
 /* Edit Task */
 .todo .input-text {
-  display: none
+  display: none;
 }
 
 .tasks .edit-mode .input-text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .tasks .edit-mode .label {
