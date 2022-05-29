@@ -21,7 +21,7 @@ body {
 
   .header { 
     text-align: center;
-    
+
 }
 }
 .sections {
@@ -36,14 +36,14 @@ body {
   flex-grow: 1
 }
 .tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .todo, .subheader {
-  list-style:none;
+  list-style: none;
 }
 .input, .button{
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -136,14 +136,14 @@ body {
 
 /* Edit Task */
 .todo .input-text {
-  display:none
+  display: none
 }
 
 .tasks .edit-mode .input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks .edit-mode .label {
-  display:none;
+  display: none;
 }
