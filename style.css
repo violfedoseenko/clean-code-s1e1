@@ -39,10 +39,12 @@ body {
   margin: 0;
   padding: 0px;
 }
-.todo, .subheader {
+.todo,
+.subheader {
   list-style: none;
 }
-.input, .button{
+.input,
+.button{
   outline: none;
 }
 .button {
